@@ -1,5 +1,5 @@
 <a href="">
-  <img alt="3d scroll" src="https://chat.vercel.ai/opengraph-image.png">
+  <img alt="3d scroll" src="https://github.com/afarhadi99/3d-scroll-website/blob/main/public/screenshot.jpg">
 </a>
 
 # 3D Scroll Website
